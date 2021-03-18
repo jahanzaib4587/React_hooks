@@ -1,0 +1,23 @@
+.parent_div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: #caf7e3;
+  width: 100vw;
+  height: 100vh;
+}
+.child_div {
+  width: 70vw;
+  height: 70vh;
+  background-color: #f6dfeb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.display {
+  display: flex;
+  align-items: center;
+}
